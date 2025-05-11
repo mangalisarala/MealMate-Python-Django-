@@ -33,6 +33,9 @@ cd mealmate
 ```sh
 python3 -m venv venv
 source venv/bin/activate  # For Mac/Linux
+
+python -m venv myenv
+source myenv/Scripts/activate # For Windows
 ```
 
 ### **3. Install Dependencies**
